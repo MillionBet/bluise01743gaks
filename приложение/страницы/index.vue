@@ -16,11 +16,11 @@
           >
             <input
               ref="emailInput"
-              v-model="form.email"
+              v-model="mrbet.sports@gmail.com"
               class="appearance-none mb-36 bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
               type="text"
               name="email"
-              placeholder="mrbet.sports@gmail.com"
+              placeholder="you@email.com"
               aria-label="Email address"
             />
 
