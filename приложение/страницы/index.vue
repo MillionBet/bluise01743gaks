@@ -14,14 +14,8 @@
             netlify
             class="flex items-center border-b border-b-2 border-blue-400 py-2"
           >
-            <input
-              ref="emailInput"
-              v-model="mrbet.sports@gmail.com"
-              class="appearance-none mb-36 bg-transparent border-none w-full text-gray-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
-              type="text"
-              name="email"
-              placeholder="you@email.com"
-              aria-label="Email address"
+            
+
             />
 
             <button
